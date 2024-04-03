@@ -4,5 +4,7 @@ A fun snake game that uses the object-oriented properties of the Python language
 
 All the modules used are:
 -turtle
+
 -time
+
 -sys
