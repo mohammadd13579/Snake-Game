@@ -7,5 +7,3 @@ All the modules used in this program are:
 -turtle
 
 -time
-
--sys
