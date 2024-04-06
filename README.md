@@ -4,6 +4,8 @@
 
 All the modules used in this program are:
 
+-random
+
 -turtle
 
 -time
