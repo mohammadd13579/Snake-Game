@@ -5,8 +5,8 @@
 > [!NOTE]
 > All the modules used in this program are:
 
-- random
+> - random
 
-- turtle
+> - turtle
 
-- time
+> - time
