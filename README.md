@@ -2,11 +2,10 @@
 
 .:A fun snake game that uses the object-oriented properties of the Python language and the turtle module that is present in Python by default:.
 
-> [!NOTE]
-> All the modules used in this program are:
+All the modules used in this program are:
 
-> - random
+- random
 
-> - turtle
+- turtle
 
-> - time
+- time
